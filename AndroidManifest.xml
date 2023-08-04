@@ -1,0 +1,22 @@
+<?xml version = '1.0' encoding = "UTF-8" ?>
+<widget
+    android-versionCode = '1'
+    id = 'com.falconapps.junastore'
+    version = '1.0.0'
+    xmlns = 'https://www.w3.org/ns/widgets'>
+
+    <name>Juna Store</name>
+    <description>Shop here</description>
+    <author>FalconApps</author>
+
+    <preference name = 'orientation'  value = 'portrait'/>
+
+<manifest>
+    <application>
+        <!-- Sample AdMob app ID: ca-app-pub-7569802352712579~5298341673 -->
+        <meta-data
+            android:name="com.falconapps.junastore"
+            android:value="ca-app-pub-7569802352712579/3059276865"/>
+    </application>
+</manifest>
+</widget>
